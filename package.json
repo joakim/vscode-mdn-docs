@@ -52,6 +52,11 @@
                 "type": "boolean",
                 "default": false,
                 "description": "Open MDN documentation in an external browser (default is to open within vscode)."
+            },
+            "mdnDocs.readerView": {
+                "type": "boolean",
+                "default": false,
+                "description": "Show reader view of MDN documentation in the internal browser (default is to show the full page)."
             }
         }
     },
